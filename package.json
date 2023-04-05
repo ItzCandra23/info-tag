@@ -1,0 +1,17 @@
+{
+    "name": "@bdsx/info-tag",
+    "description": "This plugin for BDSX",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "ISC",
+    "keywords": [
+        "info-tag",
+        "BDSX"
+    ],
+    "author": "ItzCandra23",
+    "homepage": "https://github.com/ItzCandra23/info-tag",
+    "bdsxPlugin": true,
+    "devDependencies": {
+        "bdsx": "file:../bdsx"
+    }
+}

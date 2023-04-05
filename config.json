@@ -1,0 +1,4 @@
+{
+  "tag": "&c{health}/{max_health} &8|&r {colorping}ms",
+  "tick": 500
+}
